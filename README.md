@@ -2,7 +2,7 @@
 
 ### Instruções
 
-1. Bom base no wire Wire_Teste_PHP.png desenvolver um Micro Dashboard de Listagem de Palestras (detalhes abaixo)
+1. Com base no wire Wire_Teste_PHP.png desenvolver um Micro Dashboard de Listagem de Palestras (detalhes abaixo)
 2. Desenvolver um Micro REST para consumo do dashboard (detalhes abaixo)
 
 ##Micro Dashboard de Listagem de Palestras:
